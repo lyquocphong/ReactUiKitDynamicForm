@@ -1,2 +1,0 @@
-# ReactUiKitDynamicForm
-Created with CodeSandbox
